@@ -1,5 +1,8 @@
 #include <TinyGPS++.h>
-
+/*
+Basic code congiguration used to test the funcionality of the gps module
+an how it interacts with the esp32
+*/
 //Testing definitions
 String latitude;
 String longitude;
