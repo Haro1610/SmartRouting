@@ -49,7 +49,7 @@
 
 // Azure IoT Central
 #define DPS_ID_SCOPE "0ne00835844"
-#define IOT_CONFIG_DEVICE_ID "TestPlantila"
+#define IOT_CONFIG_DEVICE_ID "TestPlantila"// new template for testing
 // Use device key if not using certificates
 #ifndef IOT_CONFIG_USE_X509_CERT
 #define IOT_CONFIG_DEVICE_KEY "EWmUCBaBCn8eTyTFrQ38IXrM8rpCN+wV3vbzBWICjhs="
