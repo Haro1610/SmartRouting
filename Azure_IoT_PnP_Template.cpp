@@ -236,9 +236,9 @@ static void GPS_cordinates(
     float* longitude,
     float* velocity)
 {
-  *latitude = 20.547190;
-  *longitude = -103.367388;
-  *velocity = 109.67;
+  *latitude;
+  *longitude;
+  *velocity;
 }
 
 static int generate_telemetry_payload(
